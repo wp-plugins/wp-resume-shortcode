@@ -3,7 +3,7 @@ Contributors: kicoe
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B6TNY6XGYV8GE
 Tags: shortcode, resume
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -63,3 +63,6 @@ I have designed the new iPhone 7
 = 1.0 =
 * Now is permitted the use of either line1 only, or line2 only, or both, or none.
 * Addition of new parameters : dateseparator and lineseparator. HTML allowed: linebreak, hr, -, ...). Default is linebreak.
+
+= 1.1 =
+* Now compatible up to wordpress v4.1
